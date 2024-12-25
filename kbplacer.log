@@ -1,0 +1,14 @@
+[kbplacer_plugin_action.py:65]: Plugin version: 0.12
+[kbplacer_plugin_action.py:66]: Python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+[kbplacer_plugin_action.py:67]: KiCad version: 8.0.6 with 4.2.2 msw (phoenix) wxWidgets 3.2.6
+[kbplacer_dialog.py:585]: Language: en
+[kbplacer_plugin_action.py:75]: GUI state: {"layout_path": "C:\\Users\\Ihsan Hadi Wicaksono\\Downloads\\Video\\Keyboard\\PCB design\\GMK67-layout-inspired.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "AM1:{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": false, "optimize_diodes_orientation": true, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": 1.0, "y": 1.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "additional_elements": [], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 5.0}
+[key_placer.py:361]: Set key 1U distance: 19050000/19050000
+[key_placer.py:116]: Unexpected switch net position detected, each switch should have two unique nets unambiguously defining position in key matrix, switch-by-matrix association can't be used
+[key_placer.py:123]: Switches by nets: {}
+[key_placer.py:127]: Diodes by switch: {}
+[kle_serial.py:897]: User layout: [[{'f': 5}, '~\n`', '!\n1', '@\n2', '#\n3', '$\n4', '%\n5', '^\n6', '&\n7', '*\n8', '(\n9', ')\n0', {'f': 6}, '_\n-', '+\n=', {'f': 4, 'w': 2}, 'Backspace'], [{'w': 1.5}, 'Tab', {'f': 6}, 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', {'f': 5}, '{\n[', '}\n]', {'w': 1.5}, '|\n\\', {'f': 4}, 'Delete'], [{'w': 1.75}, 'Caps Lock', {'f': 6}, 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':\n;', '"\n\'', {'f': 4, 'w': 2.25}, 'Enter', 'PgUp'], [{'w': 2.25}, 'Shift', {'f': 6}, 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<\n,', '>\n.', {'f': 5}, '?\n/', {'f': 4, 'w': 1.75}, 'Shift', {'f': 5}, '↑', {'f': 4}, 'PgDn'], [{'w': 1.25}, 'Ctrl', {'w': 1.25}, "<i class='kb kb-logo-windows-8'></i>", {'w': 1.25}, 'Alt', {'a': 7, 'f': 5, 'w': 6.25}, '', {'a': 4, 'f': 4, 'w': 1.25}, 'Alt', {'w': 1.25}, 'Ctrl', {'x': 0.5, 'f': 5}, '←', '↓', '→']]
+[key_placer.py:661]: Layout offset: (28575000, 28575000)
+[board_modifier.py:85]: Setting AM1:1 footprint position: (38100000, 38100000)
+[board_modifier.py:85]: Setting AM1:2 footprint position: (57150000, 38100000)
+[board_modifier.py:85]: Setting AM1:3 footprint position: (76200000, 38100000)
