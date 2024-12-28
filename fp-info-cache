@@ -1,4 +1,4 @@
-26154697820954943
+26156433284270452
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58085,6 +58085,13 @@ HE_Keyswitch
 0
 15
 2
+HE_Keyswitch
+MIFA
+
+
+0
+0
+0
 HE_Keyswitch
 MX_Gateron_HE_1.5u
 Footprint for Cherry MX style switches

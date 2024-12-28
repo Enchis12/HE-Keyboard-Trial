@@ -11,8 +11,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 12.7 111.76)
-		(size 121.92 41.91)
+		(at 12.7 116.84)
+		(size 121.92 44.45)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -23,7 +23,7 @@
 		)
 		(uuid "1d3fa8e2-4e71-40f3-a993-247ebad12b6f")
 		(property "Sheetname" "Switches, Sensor, and Mounting"
-			(at 12.7 111.0484 0)
+			(at 12.7 116.1284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Sheetfile" "sensor.kicad_sch"
-			(at 12.7 154.2546 0)
+			(at 12.7 161.8746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50,7 +50,7 @@
 	)
 	(sheet
 		(at 12.7 15.24)
-		(size 121.92 41.91)
+		(size 121.92 44.45)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -70,7 +70,7 @@
 			)
 		)
 		(property "Sheetfile" "MB.kicad_sch"
-			(at 12.7 57.7346 0)
+			(at 12.7 60.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,8 +87,8 @@
 		)
 	)
 	(sheet
-		(at 12.7 63.5)
-		(size 121.92 41.91)
+		(at 12.7 66.04)
+		(size 121.92 44.45)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -99,7 +99,7 @@
 		)
 		(uuid "f9e82b68-17d3-4709-bfd0-ccaf24dab31e")
 		(property "Sheetname" "Daughter Board"
-			(at 12.7 62.7884 0)
+			(at 12.7 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,7 +108,7 @@
 			)
 		)
 		(property "Sheetfile" "DB.kicad_sch"
-			(at 12.7 105.9946 0)
+			(at 12.7 111.0746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
