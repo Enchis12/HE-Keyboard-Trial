@@ -2404,7 +2404,7 @@
 				)
 			)
 		)
-		(symbol "Device:RotaryEncoder_Switch_MP"
+		(symbol "HE_Keyswitch:RotaryEncoder_Switch_MP"
 			(pin_names
 				(offset 0.254) hide)
 			(exclude_from_sim no)
@@ -2752,34 +2752,16 @@
 					)
 				)
 				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at 7.62 2.54 180)
 					(length 2.54)
-					(name "S1"
+					(name "D"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "S1"
+					(number "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2797,7 +2779,25 @@
 							)
 						)
 					)
-					(number "S2"
+					(number "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4101,7 +4101,7 @@
 	)
 	(global_label "S2 RK"
 		(shape input)
-		(at 113.03 64.77 90)
+		(at 118.11 64.77 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4111,7 +4111,7 @@
 		)
 		(uuid "5a1cf05f-4fa9-4b6b-85e8-0d8bed1d09d1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 55.8582 90)
+			(at 118.11 55.8582 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4211,7 +4211,7 @@
 	)
 	(global_label "USB D- DBS"
 		(shape input)
-		(at 74.93 52.07 270)
+		(at 72.39 52.07 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4221,7 +4221,7 @@
 		)
 		(uuid "6b8412c5-9bc6-41d4-a98b-e1489d0af08a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.93 67.3923 90)
+			(at 72.39 67.3923 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4321,7 +4321,7 @@
 	)
 	(global_label "USB D-"
 		(shape input)
-		(at 74.93 41.91 90)
+		(at 72.39 41.91 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4331,7 +4331,7 @@
 		)
 		(uuid "876079e9-a183-42d8-8882-84fca38da39b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.93 31.3048 90)
+			(at 72.39 31.3048 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4409,7 +4409,7 @@
 	)
 	(global_label "S1 RK"
 		(shape input)
-		(at 118.11 64.77 90)
+		(at 113.03 64.77 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4419,7 +4419,7 @@
 		)
 		(uuid "a5b614ee-1a79-497d-811b-ef945d1fdf4e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 55.8582 90)
+			(at 113.03 55.8582 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4475,7 +4475,7 @@
 	)
 	(global_label "USB D+ DBS"
 		(shape input)
-		(at 77.47 52.07 270)
+		(at 74.93 52.07 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4485,7 +4485,7 @@
 		)
 		(uuid "ae5b5ed2-b05a-4de7-9ed5-a0edcd3b7bc1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.47 67.5133 90)
+			(at 74.93 67.5133 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4497,7 +4497,7 @@
 	)
 	(global_label "USB D+"
 		(shape input)
-		(at 77.47 41.91 90)
+		(at 74.93 41.91 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4507,7 +4507,7 @@
 		)
 		(uuid "b1730703-7d79-4dbb-9ff4-7b358873e5b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.47 31.3048 90)
+			(at 74.93 31.3048 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4519,7 +4519,7 @@
 	)
 	(global_label "USB CC1"
 		(shape input)
-		(at 72.39 41.91 90)
+		(at 77.47 41.91 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4529,7 +4529,7 @@
 		)
 		(uuid "b2bb9d24-ec80-406f-83bf-e7eb6055ee21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.39 30.3977 90)
+			(at 77.47 30.3977 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4739,7 +4739,7 @@
 	)
 	(global_label "USB CC1 DBS"
 		(shape input)
-		(at 72.39 52.07 270)
+		(at 77.47 52.07 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4749,7 +4749,7 @@
 		)
 		(uuid "eb9c0b74-1002-424e-90ca-725568ba56ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.39 68.2994 90)
+			(at 77.47 68.2994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4893,6 +4893,86 @@
 		)
 	)
 	(symbol
+		(lib_id "HE_Keyswitch:RotaryEncoder_Switch_MP")
+		(at 125.73 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24fc9a0d-3e7a-4dae-a112-fb3144c4efba")
+		(property "Reference" "RK1"
+			(at 125.73 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RotaryEncoder_Switch_MP"
+			(at 125.73 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HE_Keyswitch:RotaryEncoder_Bourns_Vertical_PEC11J-9220F-S0015"
+			(at 121.92 27.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 125.73 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin"
+			(at 125.73 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "D"
+			(uuid "7ce643c1-7b77-4319-a8a6-7ff68e87141b")
+		)
+		(pin "E"
+			(uuid "10f7d4bc-9f2c-4e4d-b828-4137d5780abd")
+		)
+		(pin "C"
+			(uuid "7665ff2e-1f4b-4ca5-a7a0-6c39ce10bc1b")
+		)
+		(pin "MP"
+			(uuid "90dc9272-a975-459b-b7c9-13500ae045f7")
+		)
+		(pin "A"
+			(uuid "bb9b34da-1988-43b9-a877-3cb6dd253bce")
+		)
+		(pin "B"
+			(uuid "5edf1e5e-1ac3-4206-bf1a-506e54267a10")
+		)
+		(instances
+			(project ""
+				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
+					(reference "RK1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_SPDT")
 		(at 21.59 91.44 0)
 		(unit 1)
@@ -5025,86 +5105,6 @@
 			(project "GMK67-HE_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:RotaryEncoder_Switch_MP")
-		(at 125.73 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67731338-f150-4411-98bc-8c8d7ae0ecbd")
-		(property "Reference" "RK1"
-			(at 125.73 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RotaryEncoder_Switch_MP"
-			(at 125.73 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-			(at 121.92 27.686 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 125.73 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin"
-			(at 125.73 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "C"
-			(uuid "35773a72-a054-4744-91b3-f4d200787deb")
-		)
-		(pin "S1"
-			(uuid "27ab2f2b-1b1e-4271-9c6c-09dd0824064e")
-		)
-		(pin "B"
-			(uuid "6dba22c6-5fe4-41e1-9ab4-ab9063794edc")
-		)
-		(pin "MP"
-			(uuid "addd8fcb-46d8-4ffc-ac5b-cc1f0f80e3c7")
-		)
-		(pin "S2"
-			(uuid "be33e766-a1ce-4db1-9810-1ec95d0bee3a")
-		)
-		(pin "A"
-			(uuid "017608b8-553e-4c73-ade1-a2810e7b8b74")
-		)
-		(instances
-			(project "GMK67-HE_Trial"
-				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
-					(reference "RK1")
 					(unit 1)
 				)
 			)

@@ -1,4 +1,4 @@
-26151227260679230
+26154697820954943
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58079,6 +58079,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 HE_Keyswitch
+2.4GHz-INVERTED-F-ANTENNA
+
+
+0
+15
+2
+HE_Keyswitch
 MX_Gateron_HE_1.5u
 Footprint for Cherry MX style switches
 
@@ -58141,6 +58148,13 @@ QFN NoLead
 0
 42
 33
+HE_Keyswitch
+RotaryEncoder_Bourns_Vertical_PEC11J-9220F-S0015
+Bourns rotary encoder, PEC12R, with switch, with bushing, vertical shaft, 17.5mm shaft, https://www.bourns.com/docs/product-datasheets/pec12r.pdf
+rotary encoder
+0
+11
+6
 HE_Keyswitch
 TestPoint_Pad_D0.5mm
 SMD pad as test Point, diameter 1.0mm
