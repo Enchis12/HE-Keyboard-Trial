@@ -41,7 +41,7 @@
 			)
 		)
 		(instances
-			(project "GMK67-HE_Trial"
+			(project "HE_Keyboard_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2"
 					(page "4")
 				)
@@ -79,7 +79,7 @@
 			)
 		)
 		(instances
-			(project "GMK67-HE_Trial"
+			(project "HE_Keyboard_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2"
 					(page "2")
 				)
@@ -117,7 +117,7 @@
 			)
 		)
 		(instances
-			(project "GMK67-HE_Trial"
+			(project "HE_Keyboard_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2"
 					(page "3")
 				)

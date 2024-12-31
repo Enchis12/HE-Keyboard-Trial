@@ -2672,7 +2672,7 @@
 	)
 	(global_label "3.3V"
 		(shape input)
-		(at 154.94 204.47 180)
+		(at 154.94 205.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2682,7 +2682,7 @@
 		)
 		(uuid "726777c7-9a03-44ac-be94-707b3f9cdde3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 147.8424 204.47 0)
+			(at 147.8424 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4490,7 +4490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 86.36 142.24 0)
 			(effects
 				(font
@@ -4731,7 +4731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 212.09 185.42 0)
 			(effects
 				(font
@@ -5178,7 +5178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 198.12 120.65 0)
 			(effects
 				(font
@@ -5477,7 +5477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 114.3 120.65 0)
 			(effects
 				(font
@@ -5578,7 +5578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 226.06 185.42 0)
 			(effects
 				(font
@@ -5745,7 +5745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 128.27 142.24 0)
 			(effects
 				(font
@@ -5846,7 +5846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 100.33 207.01 0)
 			(effects
 				(font
@@ -6017,7 +6017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 184.15 142.24 0)
 			(effects
 				(font
@@ -6118,7 +6118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 198.12 142.24 0)
 			(effects
 				(font
@@ -6484,7 +6484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 86.36 163.83 0)
 			(effects
 				(font
@@ -6585,7 +6585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 58.42 142.24 0)
 			(effects
 				(font
@@ -6756,7 +6756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 142.24 163.83 0)
 			(effects
 				(font
@@ -6923,7 +6923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 44.45 207.01 0)
 			(effects
 				(font
@@ -7024,7 +7024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 114.3 185.42 0)
 			(effects
 				(font
@@ -7188,7 +7188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 212.09 120.65 0)
 			(effects
 				(font
@@ -7289,7 +7289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 58.42 163.83 0)
 			(effects
 				(font
@@ -7454,7 +7454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 86.36 120.65 0)
 			(effects
 				(font
@@ -7691,7 +7691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 184.15 163.83 0)
 			(effects
 				(font
@@ -7792,7 +7792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 30.48 120.65 0)
 			(effects
 				(font
@@ -7893,7 +7893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 72.39 163.83 0)
 			(effects
 				(font
@@ -8192,7 +8192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 128.27 185.42 0)
 			(effects
 				(font
@@ -8363,7 +8363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 156.21 120.65 0)
 			(effects
 				(font
@@ -8802,7 +8802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 114.3 163.83 0)
 			(effects
 				(font
@@ -9109,7 +9109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 30.48 163.83 0)
 			(effects
 				(font
@@ -9210,7 +9210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 100.33 163.83 0)
 			(effects
 				(font
@@ -9311,7 +9311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 100.33 142.24 0)
 			(effects
 				(font
@@ -9478,7 +9478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 170.18 120.65 0)
 			(effects
 				(font
@@ -9645,7 +9645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 212.09 163.83 0)
 			(effects
 				(font
@@ -9816,7 +9816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 44.45 142.24 0)
 			(effects
 				(font
@@ -10123,7 +10123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 86.36 185.42 0)
 			(effects
 				(font
@@ -10356,7 +10356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 30.48 185.42 0)
 			(effects
 				(font
@@ -10873,7 +10873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 100.33 120.65 0)
 			(effects
 				(font
@@ -10974,7 +10974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -11207,7 +11207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 184.15 120.65 0)
 			(effects
 				(font
@@ -11374,7 +11374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 44.45 185.42 0)
 			(effects
 				(font
@@ -11747,7 +11747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 156.21 207.01 0)
 			(effects
 				(font
@@ -12054,7 +12054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 156.21 163.83 0)
 			(effects
 				(font
@@ -12155,7 +12155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 72.39 185.42 0)
 			(effects
 				(font
@@ -12322,7 +12322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 226.06 207.01 0)
 			(effects
 				(font
@@ -12493,7 +12493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 198.12 185.42 0)
 			(effects
 				(font
@@ -12633,7 +12633,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 154.94 219.71 0)
+		(at 154.94 220.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12641,7 +12641,7 @@
 		(dnp no)
 		(uuid "8dc65b7e-d1ef-44a8-8db6-45e5381945b5")
 		(property "Reference" "#PWR085"
-			(at 154.94 226.06 0)
+			(at 154.94 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12650,7 +12650,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.972 223.266 0)
+			(at 156.972 224.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12659,7 +12659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 219.71 0)
+			(at 154.94 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12668,7 +12668,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 219.71 0)
+			(at 154.94 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12677,7 +12677,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 154.94 219.71 0)
+			(at 154.94 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13002,7 +13002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 44.45 120.65 0)
 			(effects
 				(font
@@ -13503,7 +13503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 142.24 120.65 0)
 			(effects
 				(font
@@ -13950,7 +13950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 226.06 163.83 0)
 			(effects
 				(font
@@ -14786,7 +14786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 170.18 207.01 0)
 			(effects
 				(font
@@ -14957,7 +14957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 142.24 142.24 0)
 			(effects
 				(font
@@ -15058,7 +15058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 156.21 142.24 0)
 			(effects
 				(font
@@ -15159,7 +15159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 30.48 207.01 0)
 			(effects
 				(font
@@ -15326,7 +15326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 72.39 120.65 0)
 			(effects
 				(font
@@ -15831,7 +15831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 212.09 207.01 0)
 			(effects
 				(font
@@ -16480,7 +16480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 30.48 142.24 0)
 			(effects
 				(font
@@ -16787,7 +16787,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 44.45 163.83 0)
 			(effects
 				(font
@@ -16888,7 +16888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 170.18 142.24 0)
 			(effects
 				(font
@@ -16989,7 +16989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 58.42 120.65 0)
 			(effects
 				(font
@@ -17432,7 +17432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 128.27 120.65 0)
 			(effects
 				(font
@@ -17735,7 +17735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 142.24 185.42 0)
 			(effects
 				(font
@@ -17906,7 +17906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 72.39 142.24 0)
 			(effects
 				(font
@@ -18007,7 +18007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 58.42 207.01 0)
 			(effects
 				(font
@@ -18248,7 +18248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 114.3 142.24 0)
 			(effects
 				(font
@@ -18349,7 +18349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 170.18 185.42 0)
 			(effects
 				(font
@@ -18652,7 +18652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 212.09 142.24 0)
 			(effects
 				(font
@@ -18753,7 +18753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 156.21 185.42 0)
 			(effects
 				(font
@@ -18920,7 +18920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 100.33 185.42 0)
 			(effects
 				(font
@@ -19021,7 +19021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 58.42 185.42 0)
 			(effects
 				(font
@@ -19256,7 +19256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 170.18 163.83 0)
 			(effects
 				(font
@@ -19965,7 +19965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 198.12 207.01 0)
 			(effects
 				(font
@@ -20136,7 +20136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "HE_Keyswitch:GH39FKSW_OH49E-S"
 			(at 128.27 163.83 0)
 			(effects
 				(font
