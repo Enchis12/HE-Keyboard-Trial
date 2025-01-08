@@ -1,4 +1,4 @@
-27616044556654392
+27616048098377272
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58149,18 +58149,25 @@ Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
 0
 0
 HE_Keyswitch
-Nordic_AQFN-73-1EP_7x7mm_P0.5mm
+Murata_Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+HE_Keyswitch
+Nordic_AQFN-73-1EP_7x7mm_P0.5mm_Thermal
 http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
 AQFN 7mm 
 0
-78
+115
 74
 HE_Keyswitch
-Nordic_QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm
+Nordic_QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm_ThermalVias
 QFN, 32 Pin (http://infocenter.nordicsemi.com/pdf/nRF52810_PS_v1.1.pdf#page=468), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
-42
+59
 33
 HE_Keyswitch
 RotaryEncoder_Bourns_Vertical_PEC11J-9220F-S0015
@@ -58176,13 +58183,6 @@ test point SMD pad
 0
 1
 1
-HE_Keyswitch
-USB A
-
-
-0
-0
-0
 HE_Keyswitch
 stm32 switch button
 C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
