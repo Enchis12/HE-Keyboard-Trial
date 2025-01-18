@@ -87,6 +87,44 @@
 		)
 	)
 	(sheet
+		(at 146.05 31.75)
+		(size 46.99 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f08cc46-0b83-4512-a35b-f2138930ad22")
+		(property "Sheetname" "USB Dongle"
+			(at 146.05 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Dongle.kicad_sch"
+			(at 146.05 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HE_Keyboard_Trial"
+				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 12.7 66.04)
 		(size 121.92 44.45)
 		(fields_autoplaced yes)

@@ -3215,6 +3215,12 @@
 		(uuid "57160712-0aa4-494a-bc83-d485319ce99f")
 	)
 	(junction
+		(at 116.84 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "597ceed6-f2c3-464d-80fe-73be2dee91b3")
+	)
+	(junction
 		(at 26.67 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3230,7 +3236,17 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 57.15) (xy 114.3 68.58)
+			(xy 116.84 55.88) (xy 119.38 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "260a5367-4838-495d-aeb5-328743543a44")
+	)
+	(wire
+		(pts
+			(xy 114.3 55.88) (xy 114.3 64.77)
 		)
 		(stroke
 			(width 0)
@@ -3330,6 +3346,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 55.88) (xy 119.38 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ba48941-3d44-47cd-8088-a730b936e7c1")
+	)
+	(wire
+		(pts
 			(xy 91.44 33.02) (xy 91.44 44.45)
 		)
 		(stroke
@@ -3370,16 +3396,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 60.96) (xy 121.92 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "860b5eb8-7dfe-4b6a-90c7-f1f636af6b65")
-	)
-	(wire
-		(pts
 			(xy 46.99 46.99) (xy 46.99 48.26)
 		)
 		(stroke
@@ -3397,6 +3413,16 @@
 			(type default)
 		)
 		(uuid "ab9afac9-98c2-4ae8-aee4-ff0e63f4649c")
+	)
+	(wire
+		(pts
+			(xy 114.3 55.88) (xy 116.84 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c125b256-9674-41aa-81e0-6e8fd2a6c94f")
 	)
 	(wire
 		(pts
@@ -3462,7 +3488,7 @@
 	)
 	(rectangle
 		(start 105.41 13.97)
-		(end 149.86 101.6)
+		(end 149.86 97.79)
 		(stroke
 			(width 0)
 			(type dash)
@@ -3497,8 +3523,8 @@
 		(uuid 91f3b8d0-da08-4fb0-8106-c755054dd8f0)
 	)
 	(rectangle
-		(start 106.68 43.18)
-		(end 127 100.33)
+		(start 106.68 41.91)
+		(end 127 96.52)
 		(stroke
 			(width 0)
 			(type default)
@@ -3570,7 +3596,7 @@
 	)
 	(text_box "DB1-MB Pin"
 		(exclude_from_sim no)
-		(at 113.03 43.18 0)
+		(at 113.03 41.91 0)
 		(size 13.97 3.81)
 		(stroke
 			(width 0)
@@ -3776,7 +3802,7 @@
 	)
 	(global_label "VOL UP DBS"
 		(shape input)
-		(at 116.84 78.74 270)
+		(at 116.84 74.93 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3786,7 +3812,7 @@
 		)
 		(uuid "2e03559f-b530-4066-aff9-f3d2fdf4acfe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.84 93.4576 90)
+			(at 116.84 89.6476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3842,7 +3868,7 @@
 	)
 	(global_label "VOL DOWN DBS"
 		(shape input)
-		(at 111.76 78.74 270)
+		(at 111.76 74.93 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3852,7 +3878,7 @@
 		)
 		(uuid "35a74a6a-2b8f-47d2-916b-993735b42c08")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.76 96.2395 90)
+			(at 111.76 92.4295 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3864,7 +3890,7 @@
 	)
 	(global_label "E RK DBS"
 		(shape input)
-		(at 121.92 78.74 270)
+		(at 121.92 74.93 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3874,7 +3900,7 @@
 		)
 		(uuid "3a052b0b-6eb8-4796-93c9-3be87195fce6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.92 91.0989 90)
+			(at 121.92 87.2889 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3886,7 +3912,7 @@
 	)
 	(global_label "D RK DBS"
 		(shape input)
-		(at 119.38 78.74 270)
+		(at 119.38 74.93 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3896,7 +3922,7 @@
 		)
 		(uuid "3a2e5abc-81b4-45d0-ae6e-074a30bdc19b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.38 91.2199 90)
+			(at 119.38 87.4099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3908,7 +3934,7 @@
 	)
 	(global_label "VOL DOWN"
 		(shape input)
-		(at 111.76 68.58 90)
+		(at 121.92 64.77 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3918,7 +3944,7 @@
 		)
 		(uuid "46862049-2afb-459b-b35a-e3146ae7cac4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.76 55.7976 90)
+			(at 121.92 51.9876 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4018,7 +4044,7 @@
 	)
 	(global_label "VOL UP"
 		(shape input)
-		(at 116.84 68.58 90)
+		(at 111.76 64.77 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4028,7 +4054,7 @@
 		)
 		(uuid "745ae705-7828-4ab3-af77-81b8ffd975a9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.84 58.5795 90)
+			(at 111.76 54.7695 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +4418,7 @@
 	)
 	(global_label "COM RK DBS"
 		(shape input)
-		(at 114.3 78.74 270)
+		(at 114.3 74.93 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4402,7 +4428,7 @@
 		)
 		(uuid "e00db9b0-462a-4563-8429-d140fe8a5170")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.3 94.0018 90)
+			(at 114.3 90.1918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4502,7 +4528,7 @@
 	)
 	(global_label "D RK"
 		(shape input)
-		(at 119.38 68.58 90)
+		(at 116.84 64.77 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4512,7 +4538,7 @@
 		)
 		(uuid "f53af2cf-85ba-47c6-890b-7c652c9f7537")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.38 60.8172 90)
+			(at 116.84 57.0072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4805,7 +4831,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Pin")
-		(at 116.84 73.66 270)
+		(at 116.84 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4813,7 +4839,7 @@
 		(dnp no)
 		(uuid "85f31429-7e4b-4ec7-8829-f749c4482ef9")
 		(property "Reference" "DBP1"
-			(at 116.84 99.06 90)
+			(at 116.84 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4821,7 +4847,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05_Pin"
-			(at 116.84 97.028 90)
+			(at 116.84 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,7 +4855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +4864,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4873,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5078,6 +5104,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:Earth")
+		(at 116.84 55.88 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a296812d-67e9-4151-849c-c8a59dfb9e53")
+		(property "Reference" "#PWR0103"
+			(at 116.84 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 114.808 52.324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61dc6c30-83e0-475a-8c6d-e24efa135268")
+		)
+		(instances
+			(project "HE_Keyboard_Trial"
+				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x11_Socket")
 		(at 86.36 49.53 270)
 		(unit 1)
@@ -5166,72 +5258,6 @@
 			(project "GMK67-HE_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
 					(reference "DBS0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:Earth")
-		(at 114.3 57.15 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b1222b7d-e087-489a-aad1-7a4f4244425a")
-		(property "Reference" "#PWR0107"
-			(at 114.3 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 112.268 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 114.3 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 114.3 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4e160ae0-2034-4b17-b90c-5972ac23e222")
-		)
-		(instances
-			(project "HE_Keyboard_Trial"
-				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
-					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -5405,72 +5431,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:Earth")
-		(at 121.92 60.96 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f3780070-62c5-4e83-9d3a-10e005395d4d")
-		(property "Reference" "#PWR0106"
-			(at 121.92 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 119.888 57.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 121.92 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e75db77c-f364-412c-8c06-4e10a664c87d")
-		)
-		(instances
-			(project "HE_Keyboard_Trial"
-				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
-					(reference "#PWR0106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "HE_Keyswitch:USB_C_Receptacle_USB2.0_14P")
 		(at 30.48 43.18 0)
 		(unit 1)
@@ -5480,7 +5440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb364d37-1001-4278-9664-ae9a0d227967")
-		(property "Reference" "J1"
+		(property "Reference" "USBC1"
 			(at 30.48 20.32 0)
 			(effects
 				(font
@@ -5571,7 +5531,7 @@
 		(instances
 			(project "GMK67-HE_Trial"
 				(path "/7083d78e-5f0e-4c6d-9084-5f6f69def5a2/f9e82b68-17d3-4709-bfd0-ccaf24dab31e"
-					(reference "J1")
+					(reference "USBC1")
 					(unit 1)
 				)
 			)
@@ -5579,7 +5539,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x05_Socket")
-		(at 116.84 73.66 270)
+		(at 116.84 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5587,7 +5547,7 @@
 		(dnp no)
 		(uuid "fe021791-d59e-41b7-98e9-e44866b1ea77")
 		(property "Reference" "DBS1"
-			(at 114.046 51.308 90)
+			(at 114.3 50.038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +5556,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05_Socket"
-			(at 107.188 49.022 90)
+			(at 107.188 47.752 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,7 +5565,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal"
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5614,7 +5574,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5623,7 +5583,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
-			(at 116.84 73.66 0)
+			(at 116.84 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
