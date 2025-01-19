@@ -11,8 +11,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 12.7 116.84)
-		(size 121.92 44.45)
+		(at 12.7 90.17)
+		(size 121.92 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -23,7 +23,7 @@
 		)
 		(uuid "1d3fa8e2-4e71-40f3-a993-247ebad12b6f")
 		(property "Sheetname" "Switches, Sensor, and Mounting"
-			(at 12.7 116.1284 0)
+			(at 12.7 89.4584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Sheetfile" "sensor.kicad_sch"
-			(at 12.7 161.8746 0)
+			(at 12.7 122.5046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50,7 +50,7 @@
 	)
 	(sheet
 		(at 12.7 15.24)
-		(size 121.92 44.45)
+		(size 121.92 30.48)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -70,7 +70,7 @@
 			)
 		)
 		(property "Sheetfile" "MB.kicad_sch"
-			(at 12.7 60.2746 0)
+			(at 12.7 46.3046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,8 +87,8 @@
 		)
 	)
 	(sheet
-		(at 146.05 31.75)
-		(size 46.99 31.75)
+		(at 12.7 128.27)
+		(size 121.92 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -99,7 +99,7 @@
 		)
 		(uuid "8f08cc46-0b83-4512-a35b-f2138930ad22")
 		(property "Sheetname" "USB Dongle"
-			(at 146.05 31.0384 0)
+			(at 12.7 127.5584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -108,7 +108,7 @@
 			)
 		)
 		(property "Sheetfile" "Dongle.kicad_sch"
-			(at 146.05 64.0846 0)
+			(at 12.7 160.6046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125,8 +125,8 @@
 		)
 	)
 	(sheet
-		(at 12.7 66.04)
-		(size 121.92 44.45)
+		(at 12.7 52.07)
+		(size 121.92 31.75)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -137,7 +137,7 @@
 		)
 		(uuid "f9e82b68-17d3-4709-bfd0-ccaf24dab31e")
 		(property "Sheetname" "Daughter Board"
-			(at 12.7 65.3284 0)
+			(at 12.7 51.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -146,7 +146,7 @@
 			)
 		)
 		(property "Sheetfile" "DB.kicad_sch"
-			(at 12.7 111.0746 0)
+			(at 12.7 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
