@@ -1,4 +1,4 @@
-27822661319886888
+27834831842550980
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58331,6 +58331,27 @@ SOT TO_SOT_SMD
 3
 3
 HE_Keyswitch
+Hong_Cheng_HCZZ0001-2
+Molex PicoBlade series connector, 53261-0271 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+4
+2
+HE_Keyswitch
+Hong_Cheng_HCZZ0001-5
+Molex PicoBlade series connector, 53261-0571 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+7
+5
+HE_Keyswitch
+Hong_Cheng_HCZZ0001-11
+Molex PicoBlade series connector, 53261-1171 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf), generated with kicad-footprint-generator
+connector Molex PicoBlade top entry
+0
+13
+11
+HE_Keyswitch
 MIFA
 
 
@@ -58421,6 +58442,34 @@ rotary encoder
 0
 11
 6
+HE_Keyswitch
+RotaryEncoder_CTR_ED11601M-FB15A7.0-C15-202
+Bourns rotary encoder, PEC12R, with switch, with bushing, vertical shaft, 17.5mm shaft, https://www.bourns.com/docs/product-datasheets/pec12r.pdf
+rotary encoder
+0
+7
+6
+HE_Keyswitch
+RotaryEncoder_SameSky_RIC11-31S15D7-GSMT
+Bourns rotary encoder, PEC12R, with switch, with bushing, vertical shaft, 17.5mm shaft, https://www.bourns.com/docs/product-datasheets/pec12r.pdf
+rotary encoder
+0
+7
+6
+HE_Keyswitch
+SW_SP3T_Korean_Hroparts_Elec_K3-1346S-K1
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+4
+4
+HE_Keyswitch
+SW_SPDT_Korean_Hroparts_Elec_K3-1280S-K1
+
+
+0
+3
+3
 HE_Keyswitch
 SW_SPST_PTS810
 C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
